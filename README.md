@@ -15,3 +15,7 @@ Additionally, the customers are eligible for rebate based on the number of playe
 - If user key in wrong data type, the program shall display an error message.
   
 - The total sales can be viewed by clicking on the ‘Display Total Sales’ button. When this button is clicked, the total payment for each object in the arraylist shall be accessed and summed up.
+
+## Output
+
+![image](https://github.com/soo98639/Bowling_Ticket_Generator/assets/72849596/5e215931-72f2-4707-8fa5-34adf5181c32)
